@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fisingirl
 - 👀 I’m interested in Software Development, Data Science and ML
 - 🌱 I’m currently learning Data Science and ML
-- 💞️ I’m looking to collaborate on Softare Development, Data Science and ML projects
+- 💞️ I’m looking to collaborate on Software Development, Data Science and ML projects
 - 📫 How to reach me oluwafisayoolanipekun@gmail.com
 
 <!---
